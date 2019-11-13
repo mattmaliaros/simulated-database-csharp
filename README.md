@@ -8,4 +8,6 @@ For VSCode users:
 
 1) Download .NET Framework (and adjust environmental variables for windows)
 2) Clone Repo to your directory choice
-3) Open Folder in VSCode where Program.cs 
+3) Open Folder in VSCode where Program.cs is located
+4) Open Git Bash Terminal and run "dotnet run" command
+
