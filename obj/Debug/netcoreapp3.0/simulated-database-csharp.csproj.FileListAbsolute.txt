@@ -1,0 +1,11 @@
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\bin\Debug\netcoreapp3.0\simulated-database-csharp.exe
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\bin\Debug\netcoreapp3.0\simulated-database-csharp.deps.json
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\bin\Debug\netcoreapp3.0\simulated-database-csharp.runtimeconfig.json
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\bin\Debug\netcoreapp3.0\simulated-database-csharp.runtimeconfig.dev.json
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\bin\Debug\netcoreapp3.0\simulated-database-csharp.dll
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\bin\Debug\netcoreapp3.0\simulated-database-csharp.pdb
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\obj\Debug\netcoreapp3.0\simulated-database-csharp.csprojAssemblyReference.cache
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\obj\Debug\netcoreapp3.0\simulated-database-csharp.AssemblyInfoInputs.cache
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\obj\Debug\netcoreapp3.0\simulated-database-csharp.AssemblyInfo.cs
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\obj\Debug\netcoreapp3.0\simulated-database-csharp.dll
+C:\Users\MattM\Documents\C# Work\Practice\DBConnection\simulated-database-csharp\obj\Debug\netcoreapp3.0\simulated-database-csharp.pdb
